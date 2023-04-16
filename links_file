@@ -1,0 +1,46 @@
+
+
+EDA
+
+https://colab.research.google.com/drive/1SUW8kOeiPxcA3y7XdvM4hUd6hTmiuqF9?usp=sharing#scrollTo=0f35a4e1
+https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57
+https://colab.research.google.com/drive/1SUW8kOeiPxcA3y7XdvM4hUd6hTmiuqF9?usp=sharing#scrollTo=5cb26503
+https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70
+https://towardsdatascience.com/13-key-code-blocks-for-eda-classification-task-94890622be57
+
+missing value 
+https://www.kaggle.com/code/parulpandey/a-guide-to-handling-missing-values-in-python/notebook
+https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02
+https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets/notebook
+https://www.analyticsvidhya.com/blog/2021/05/feature-scaling-techniques-in-python-a-complete-guide/
+https://opendatascience.com/transforming-skewed-data-for-machine-learning/
+https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b
+
+
+feature engineering
+
+https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets/notebook
+https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+
+ML models 
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+https://towardsai.net/p/machine-learning/what-is-an-ml-model
+https://analyticsindiamag.com/step-by-step-building-block-for-machine-learning-models/
+https://stats.stackexchange.com/questions/463224/which-performance-metrics-for-highly-imbalanced-multiclass-dataset
+
+
+more about models
+https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce
+https://towardsdatascience.com/understanding-confusion-matrix-precision-recall-and-f1-score-8061c9270011#:~:text=Precision%2DRecall%20Trade%2DOff
+https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1
+
+
+hyper parameter
+https://www.analyticsvidhya.com/blog/2021/06/tune-hyperparameters-with-gridsearchcv/
+https://towardsdatascience.com/faster-hyperparameter-tuning-with-scikit-learn-71aa76d06f12
+https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/
+https://towardsdatascience.com/tuning-hyperparameters-with-optuna-af342facc549
+https://machinelearningmastery.com/hyperopt-for-automated-machine-learning-with-scikit-learn/
